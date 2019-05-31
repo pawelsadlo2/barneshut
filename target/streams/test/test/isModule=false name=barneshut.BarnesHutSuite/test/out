@@ -1,0 +1,10 @@
+[info] BarnesHutSuite:
+[info] - Empty: center of mass should be the center of the cell
+[info] - Empty: mass should be 0
+[info] - Empty: total should be 0
+[info] - Leaf with 1 body
+[info] - Fork with 3 empty quadrants and 1 leaf (nw)
+[info] - Empty.insert(b) should return a Leaf with only that body
+[info] - Body.updated should do nothing for Empty quad trees
+[info] - Body.updated should take bodies in a Leaf into account
+[info] - 'SectorMatrix.+=' should add a body at (25,47) to the correct bucket of a sector matrix of size 96

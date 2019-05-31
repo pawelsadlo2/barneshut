@@ -1,0 +1,8 @@
+[debug] Running TaskDef(barneshut.BarnesHutSuite, org.scalatest.tools.Framework$$anon$1@7c7a2ab2, false, [SuiteSelector])
+[info] Run completed in 150 milliseconds.
+[info] Total number of tests run: 9
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 9, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	barneshut.BarnesHutSuite
